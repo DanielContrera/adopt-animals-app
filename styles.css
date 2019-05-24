@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    
+
+}
+
+.card > div{
+    padding: 10px;
+}
+
+.card-img-top > div{
+    width: 50%;
+}
