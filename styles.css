@@ -1,6 +1,5 @@
 body{
-    background-color: aquamarine;
-    
+    background-color: aquamarine;   
 
 }
 
@@ -10,4 +9,21 @@ body{
 
 .card-img-top > div{
     width: 50%;
+}
+
+.top-menu-container{
+    position: relative;
+    left:80%;
+}
+
+.botonregistrar{
+    position: relative;
+    left:80%;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
 }
